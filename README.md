@@ -2,10 +2,18 @@
 
 A command-line tool for the TransLocale localization system, making Flutter app localization easier and more powerful.
 
+## Requirements
+# Recommended
+Create a TransLocale cloudaccount and get an API key from [TransLocale](https://translocale.io).
+
+# Alternative
+Use the self-hosted version of TransLocale from [GitHub](https://github.com/translocale).
+Create a TransLocale account after hosting the service yourself and get an API key.
+
 ## Installation
 
 ```bash
-dart pub global activate -sgit https://github.com/translocale/translocale_cli.git
+dart pub global activate translocale_cli
 ```
 
 ## Usage
