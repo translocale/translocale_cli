@@ -1,6 +1,6 @@
 name: translocale_cli
 description: A powerful CLI tool for TransLocale localization system, enabling Flutter developers to easily manage translations with OTA updates.
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/translocale/translocale_flutter
 homepage: https://translocale.io
 issue_tracker: https://github.com/translocale/translocale_flutter/issues
