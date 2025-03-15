@@ -5,6 +5,7 @@ repository: https://github.com/translocale/translocale_flutter
 homepage: https://translocale.io
 issue_tracker: https://github.com/translocale/translocale_flutter/issues
 documentation: https://translocale.io/docs
+license: MIT
 
 # Keywords/topics to associate with the package
 topics: [localization, flutter, internationalization, cli, ota]
